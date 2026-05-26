@@ -1,9 +1,11 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
+director, Director,
+writer, Writer,
 date,Date Created,
 description,Description,
 subject,Subjects,true
+link, Link,,true
 location,Location
 latitude,Latitude
 longitude,Longitude
